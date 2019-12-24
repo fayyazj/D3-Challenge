@@ -28,6 +28,7 @@
   font-family: sans-serif;
   fill: #fff;
   text-anchor: middle;
+  alignment-baseline: middle;
 }
 
 .stateCircle {
@@ -49,7 +50,7 @@
   text-align: center;
   text-transform: capitalize;
   background: rgba(0, 0, 0, 0.8);
-  border-radius: 4px;
+  border-radius: 6px;
 }
 
 /* Mobile Rules */
